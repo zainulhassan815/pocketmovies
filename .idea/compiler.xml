@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Pocket_Movies.common.main" target="11" />
+      <module name="Pocket_Movies.common.test" target="11" />
+      <module name="Pocket_Movies.lib.main" target="11" />
+      <module name="Pocket_Movies.lib.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

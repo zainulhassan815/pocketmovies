@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pocket Movies</string>
+
+    <string name="home_screen_appbar_title">Pocket Movies</string>
+    <string name="home_screen_featured_content_section_title">Recently Added</string>
+    <string name="retry_button_title">Retry</string>
+    <string name="home_screen_movies_section_title">Top Rated Movies</string>
+    <string name="home_screen_movies_section_load_more_button_title">Load More</string>
+
+    <string name="loading_more_content">Loading more content</string>
+    <string name="unknown_error_title">Something went wrong!</string>
+    <string name="unknown_error_message">Make sure you have an active network connection and try again.</string>
+
+    <string name="search_screen_search_field_placeholder">Search movies</string>
+
+    <string name="sort_by_title">Title</string>
+    <string name="sort_by_year">Year</string>
+    <string name="sort_by_rating">Rating</string>
+    <string name="sort_by_date_added">Date Added</string>
+    <string name="sort_by_downloads">Downloads</string>
+
+    <string name="order_by_asc">Ascending</string>
+    <string name="order_by_desc">Descending</string>
+
+    <string name="movie_details_screen_invalid_id_error_title">Invalid Movie Id</string>
+    <string name="movie_details_screen_invalid_id_error_message">We could not find any details for given movie id.</string>
+    <string name="movie_details_screen_invalid_id_error_action_title">Go Back</string>
+    <string name="movie_details_screen_loading_movie_details_indicator_message">Loading Movie Details</string>
+    <string name="movie_details_screen_about_section_title">About</string>
+    <string name="movie_details_screen_poster_info_section_rating">%1$.1f / 10</string>
+    <string name="movie_details_screen_poster_info_section_likes">%1$s Likes</string>
+    <string name="movie_details_screen_trailer_section_button_title">Watch Trailer</string>
+    <string name="movie_details_screen_genres_section_title">Genres</string>
+    <string name="movie_details_screen_genres_section_genre_item">• %1$s</string>
+    <string name="movie_details_screen_cast_section_title">Top Cast</string>
+</resources>
