@@ -5,8 +5,8 @@ plugins {
 }
 
 dependencies {
-    implementation(project(":utils"))
-    implementation(project(":domain"))
+    implementation(projects.utils)
+    implementation(projects.domain)
 
     implementation(libs.dagger.dagger)
     kapt(libs.dagger.compiler)

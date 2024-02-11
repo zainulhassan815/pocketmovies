@@ -58,9 +58,9 @@ android {
 }
 
 dependencies {
-    implementation(project(":utils"))
-    implementation(project(":domain"))
-    implementation(project(":data"))
+    implementation(projects.utils)
+    implementation(projects.domain)
+    implementation(projects.data)
 
     debugImplementation(libs.leakcanary.android)
 

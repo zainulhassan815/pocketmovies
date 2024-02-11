@@ -13,7 +13,9 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Pocket Movies"
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
+rootProject.name = "PocketMovies"
 include(":app")
 include(":data")
 include(":domain")
